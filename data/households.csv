@@ -1,0 +1,22 @@
+household_id,household_type_code,income_bracket_code,region,city,postal_code,num_children,vehicle_access,housing_type
+H001,SINGLE,LOW,Northeast,Boston,02110,0,No,Apartment
+H002,SINGLE,MID,West,San Francisco,94110,0,No,Apartment
+H003,COUPLE,MID,Midwest,Chicago,60614,0,Yes,Apartment
+H004,COUPLE,HIGH,West,Los Angeles,90024,0,Yes,House
+H005,FAMILY,MID,South,Austin,78701,2,Yes,House
+H006,FAMILY,LOW,South,Jacksonville,32202,3,Yes,House
+H007,FAMILY,HIGH,Northeast,Westchester,10504,2,Yes,House
+H008,MULTI,MID,West,San Jose,95112,3,Yes,House
+H009,SINGLE,LOW,Midwest,Detroit,48201,0,No,Apartment
+H010,COUPLE,MID,Northeast,New York,10001,0,No,Apartment
+
+H011,FAMILY,MID,Midwest,Columbus,43210,1,Yes,House
+H012,FAMILY,HIGH,West,San Diego,92101,2,Yes,House
+H013,SINGLE,HIGH,South,Miami,33101,0,Yes,Condo
+H014,COUPLE,LOW,South,Memphis,38103,1,Yes,House
+H015,MULTI,HIGH,Midwest,Minneapolis,55401,4,Yes,House
+H016,SINGLE,MID,West,Portland,97201,0,No,Apartment
+H017,FAMILY,LOW,Northeast,Buffalo,14201,2,Yes,House
+H018,COUPLE,HIGH,West,Palo Alto,94301,0,Yes,House
+H019,SINGLE,MID,South,Nashville,37201,0,Yes,Apartment
+H020,FAMILY,MID,West,Oakland,94607,1,No,Apartment

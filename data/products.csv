@@ -1,0 +1,33 @@
+product_id,product_name,category_main,category_detail,brand_type,package_size,unit_measure
+P001,Bananas,ESSENTIAL,produce,Generic,1 lb,lb
+P002,Apples,ESSENTIAL,produce,Generic,1 lb,lb
+P003,Whole Milk,ESSENTIAL,dairy,Store Brand,1 gallon,gallon
+P004,Cheddar Cheese,ESSENTIAL,dairy,Brand Name,8 oz,oz
+P005,Eggs,ESSENTIAL,dairy,Store Brand,12 count,count
+P006,White Bread,ESSENTIAL,grains,Store Brand,20 oz,oz
+P007,Brown Rice,ESSENTIAL,grains,Generic,2 lb,lb
+P008,Chicken Breast,ESSENTIAL,meat,Generic,1 lb,lb
+P009,Ground Beef,ESSENTIAL,meat,Generic,1 lb,lb
+P010,Pasta,ESSENTIAL,grains,Generic,16 oz,oz
+
+P011,Potato Chips,NONESSENTIAL,snacks,Brand Name,10 oz,oz
+P012,Pretzels,NONESSENTIAL,snacks,Brand Name,12 oz,oz
+P013,Chocolate Bar,NONESSENTIAL,desserts,Brand Name,3 oz,oz
+P014,Ice Cream,NONESSENTIAL,desserts,Brand Name,1 pint,pint
+P015,Cookies,NONESSENTIAL,desserts,Brand Name,14 oz,oz
+P016,Soda,NONESSENTIAL,beverages,Brand Name,2 liter,liter
+P017,Energy Drink,NONESSENTIAL,beverages,Brand Name,16 oz,oz
+P018,Juice,NONESSENTIAL,beverages,Brand Name,64 oz,oz
+P019,Cereal,ESSENTIAL,grains,Brand Name,18 oz,oz
+P020,Yogurt,ESSENTIAL,dairy,Brand Name,6 oz,oz
+
+P021,Frozen Pizza,NONESSENTIAL,snacks,Brand Name,12 in,inch
+P022,Granola Bars,NONESSENTIAL,snacks,Brand Name,8 count,count
+P023,Candy,NONESSENTIAL,desserts,Brand Name,5 oz,oz
+P024,Bottled Water,ESSENTIAL,beverages,Generic,24 pack,count
+P025,Butter,ESSENTIAL,dairy,Store Brand,16 oz,oz
+P026,Oatmeal,ESSENTIAL,grains,Generic,18 oz,oz
+P027,Sausage,ESSENTIAL,meat,Brand Name,1 lb,lb
+P028,Bacon,ESSENTIAL,meat,Brand Name,12 oz,oz
+P029,Crackers,NONESSENTIAL,snacks,Brand Name,9 oz,oz
+P030,Frozen Vegetables,ESSENTIAL,produce,Generic,12 oz,oz

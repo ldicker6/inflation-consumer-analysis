@@ -1,0 +1,11 @@
+store_id,store_name,store_type_code,region,city,is_discount_store
+S001,Walmart,GROCERY,South,Atlanta,1
+S002,Kroger,GROCERY,Midwest,Columbus,0
+S003,Aldi,DISCOUNT,Midwest,Chicago,1
+S004,Target,GROCERY,West,Los Angeles,0
+S005,Whole Foods,GROCERY,Northeast,Boston,0
+S006,Trader Joes,GROCERY,West,San Diego,0
+S007,Costco,WHOLESALE,West,Seattle,1
+S008,Publix,GROCERY,South,Orlando,0
+S009,Meijer,GROCERY,Midwest,Detroit,0
+S010,Stop and Shop,GROCERY,Northeast,New York,0
